@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(165, 85, 73);
+}
+h3{
+    text-align: center;
+    font-size: 25px;
+    font-family: monospace;
+    text-decoration: underline;
+}
+.formulario{
+    margin: 60px;
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+#uno{
+    width: 80px;
+    height: 15px;
+}
+#dos{
+    width: 80px;
+    height: 15px;
+}
+#valor{
+    font-size: 20px;
+}
+#cotizador{
+    font-size: 20px;
+    border-radius: 5%;
+    background-color: rgb(40,40, 189);
+    color: white;
+}
